@@ -1,0 +1,70 @@
+/* Body classes definitions */
+body {
+    color: #D8D8BF;
+    background-color: black;
+    background-repeat: repeat-y;
+}
+
+a:link {
+    color: #00FFAA;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #FFFF44;
+    text-decoration: underline;
+}
+
+.green {
+    background-image: url(bkg-green.gif);
+}
+
+.green img {
+    vertical-align: text-top;
+    margin-right: -1.5px;
+}
+
+.yellow {
+    background-image: url(bkg-yellow.gif);
+}
+
+.yellow img {
+    vertical-align: text-top;
+    margin-right: -1.5px;
+}
+
+.red {
+    background-image: url(bkg-red.gif);
+}
+
+.red img {
+    vertical-align: text-top;
+    margin-right: -1.5px;
+}
+
+.purple {
+    background-image: url(bkg-purple.gif);
+}
+
+.purple img {
+    vertical-align: text-top;
+    margin-right: -1.5px;
+}
+
+.blue {
+    background-image: url(bkg-blue.gif);
+}
+
+.blue img {
+    vertical-align: text-top;
+    margin-right: -1.5px;
+}
+
+.clear {
+    background-image: url(bkg-clear.gif);
+}
+
+.clear img {
+    vertical-align: text-top;
+    margin-right: -1.5px;
+}
