@@ -6,7 +6,7 @@ This stylesheet enhances the alignment of colored icons on Xymon pages for a cle
 
 - Improves alignment of colored status icons.
 - Ensures consistent spacing and layout.
-- Compatible with existing Xymon styles.
+- Minimal modifications to existing Xymon styles to ensure fallback to the current design without issues.
 
 ## Installation
 
